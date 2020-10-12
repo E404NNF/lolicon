@@ -2,10 +2,10 @@
 
 // this is age
 $loli = "13";
-if ($loli > 12){
-  echo "umm .. i thought you like milf huh ?";
-}if ($loli < 10){
-  echo "Damn it 911 was Coming Here ";
+if ($loli > 15){
+  echo "Probably just something weird happened";
+}if ($loli < 15){
+  echo "Calling 911";
 }else {
-  echo "eyyyy... whatttt ???";
+  echo "Probably just something weird happened";
 }
